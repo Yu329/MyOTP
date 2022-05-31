@@ -1,0 +1,16 @@
+Bitwaren
+加強URL比對
+https://community.bitwarden.com/c/feature-requests/5
+提升PM參考MYKI
+兩周meeting一次星期二下午1:30
+
+
+
+(一)bitwarden
+URL比對功能增強
+安全機制加強(因有PM的關係，多加認證步驟等...)
+更友善的介面&&新手引導
+
+(二)備用方案：Aegis
+新增PM功能
+改善介面&&新手引導
